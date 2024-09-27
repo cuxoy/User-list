@@ -1,0 +1,12 @@
+# Ignoring node_modules folder
+node_modules/
+
+# Ignoring Webpack build output
+dist/
+
+# Ignoring logs
+npm-debug.log
+yarn-error.log
+
+# Ignoring system files
+.DS_Store
